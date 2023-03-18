@@ -1,0 +1,10 @@
+{
+  "name": "todoFE",
+  "displayName": "todoFE",
+  "extra": {
+    "eas": {
+      "projectId": "b2275abf-6584-4704-b338-7dc254a7cd30"
+    }
+  },
+  "owner": "theonlykmac"
+}
